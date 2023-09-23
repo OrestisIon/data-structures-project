@@ -3,7 +3,7 @@ This is a large collection of datastructures designed from scratch in Java.
 Note that all the structures created are customised to fit the purpose of serving the **Waffles** web application.
 
 ## What is **Waffles** ?
-A Trip Advisor rip-off packed with more than 20,000 entries of restaurants and users.
+A Trip Advisor rip-off packed with more than 20,000 entries of restaurants, users and reviews.
 
 ## Data Structures
 All the Data Structures Created are located in the 	**structures** directory.
