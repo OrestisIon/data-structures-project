@@ -1,5 +1,5 @@
 # Welcome to my first Data Structures Project In Java
-This is a large collection of datastructures designed from scratch in Java. 
+This is a large collection of data structures designed from scratch in Java. 
 Note that all the structures created are customised to fit the purpose of serving the **Waffles** web application.
 
 ## What is **Waffles** ?
